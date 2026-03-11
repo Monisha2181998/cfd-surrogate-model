@@ -1,0 +1,11 @@
+CFD SURROGATE MODEL — RESULTS
+=============================================
+
+Architecture : 5 → 128 → 256 → 256 → 128 → 64 → 2
+Parameters   : 142,530
+Epochs       : 300
+Dataset      : 25,920 samples, 656 airfoils
+
+Test Set Metrics:
+  Cl: R²=0.9983 | MAE=0.02445 | RMSE=0.03116 | MAPE=1620434.12%
+  Cd: R²=0.9956 | MAE=0.00227 | RMSE=0.00311 | MAPE=8.26%
