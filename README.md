@@ -134,7 +134,7 @@ cfd-surrogate-model/
 ├── generate_dataset.py        ← Generate NACA aerodynamic dataset
 ├── surrogate_model.py         ← Train deep neural network surrogate
 ├── naca_airfoil_dataset.csv   ← 25,920 aerodynamic data points
-├── surrogate_results.png      ← 6-panel results visualization
+├── surrogate_result.png      ← 6-panel results visualization
 ├── results.txt                ← Numerical accuracy metrics
 └── README.md
 ```
